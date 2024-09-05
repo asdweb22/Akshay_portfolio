@@ -16,11 +16,12 @@ export default function Home() {
               <Typewriter
                 options={{
                   strings: [
+                    "Devops Engineer",
+                    "Aws Cloud Engineer",
                     "React Developer",
-                    " UI/UX Developer",
+                    "UI/UX Developer",
                     "MERN Stack Developer",
                     "Full Stack Developer",
-                    "AWS Developer",
                   ],
                   autoStart: true,
                   loop: true,
