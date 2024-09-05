@@ -10,7 +10,7 @@ export default function Footer() {
           <h6>
             <b>
               &copy;2023 My portfolio designed By
-              <span className=""> ASD Creation</span>
+              <span className=""> Akshay Dhongade</span>
             </b>
           </h6>
         </div>

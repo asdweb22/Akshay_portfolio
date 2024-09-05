@@ -5,10 +5,8 @@ import { TechStackList } from "../util/TechstackList";
 export default function TechStack() {
   return (
     <div className="container techstack" id="techstack">
-      <Banner title="Technologies Stack" />
-      <p>
-        👉Including programming languages,frontend and backend technologies{" "}
-      </p>
+      <Banner title="Skill Set" />
+      
       <div className="row">
         {TechStackList.map((tech) => (
           <div className="col-md-4 mt-3" key={tech._id}>

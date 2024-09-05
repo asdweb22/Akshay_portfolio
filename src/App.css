@@ -112,9 +112,9 @@
 }
 
 .home-img-box {
-  border-radius: 100%;
-  background-color: var(--bg-color);
-  box-shadow: 5px 5px 5px 5px white;
+  /* border-radius: 50%; */
+  /* background-color: rgb(30, 30, 83); */
+  /* box-shadow: 5px 5px 5px 5px white; */
 }
 
 .icon-div {

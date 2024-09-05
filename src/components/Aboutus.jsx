@@ -25,14 +25,15 @@ export default function Aboutus() {
               <h2>Hello i am Akshay Dhongade,</h2>
               <h4>
                 {" "}
-                I like to work on different skills like:
-                <ul>
+                I like to work on different Roles: <br></br>
+                <ul className="mt-3">
+                <li>Devops Engineer</li>
+                <li>AWS Cloud Engineer </li>
                   <li>Software Development</li>
                   <li>MERN Stack Development</li>
                   <li>UI/UX designing</li>
-                  <li>AWS Services</li>
                   <li>Teaching-(Sharing Knowledge with others)</li>
-                  <li>Freelancing</li>
+                  <li>Freelancing : Graphics Designing</li>
                 </ul>
               </h4>
             </Fade>
