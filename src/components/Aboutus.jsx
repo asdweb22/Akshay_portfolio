@@ -27,8 +27,8 @@ export default function Aboutus() {
                 {" "}
                 I like to work on different Roles: <br></br>
                 <ul className="mt-3">
-                <li>Devops Engineer</li>
-                <li>AWS Cloud Engineer </li>
+                  <li>Devops Engineer</li>
+                  <li>AWS Cloud Engineer </li>
                   <li>Software Development</li>
                   <li>MERN Stack Development</li>
                   <li>UI/UX designing</li>
